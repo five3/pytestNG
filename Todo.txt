@@ -1,0 +1,12 @@
+1、setup
+2、teardown
+3、classSetup
+4、classTeardown
+5、prequest
+6、test(expected,timeout)
+7、ignore("message", platform)
+8、runwith(Runner)
+9、runner[parametered,suite]
+10、parameters[所有用例所有数据、所有用例一种数据、一个用例所有数据、一个用例一个数据]
+11、assert[equals,contain,regex]
+12、repeat[fail, times, timeout]
